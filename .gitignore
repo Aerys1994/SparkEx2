@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Project Specifics ###
+src/main/resources/estadisticas202402.csv
